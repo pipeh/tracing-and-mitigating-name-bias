@@ -1,0 +1,13 @@
+-r requirements.txt
+accelerate
+datasets
+huggingface_hub
+openai
+pycountry
+requests
+safetensors
+torch
+transformers
+vllm
+tqdm
+# Optional: bitsandbytes is needed only for --load_in_8bit.

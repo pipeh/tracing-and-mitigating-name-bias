@@ -1,0 +1,10 @@
+numpy==2.4.3
+pandas==3.0.2
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+python-dotenv==1.2.1
+pyarrow
+IPython
+Jinja2
+jupyterlab
